@@ -1,0 +1,5 @@
+please download and install Tesseract-OCR through the following link https://github.com/UB-Mannheim/tesseract/wiki
+and make sure that the installation directory is a folder named "Tesseract-OCR" in the same directory of the task files.
+
+for example the directory in my pc is "C:\Users\Abd El-rhman Fathy\Desktop\Task\Tesseract-OCR"
+where all task files are in folder "Task"

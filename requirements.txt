@@ -1,0 +1,8 @@
+pytesseract
+opencv-python
+pyenchant
+regex
+nltk
+transformers
+streamlit
+os
