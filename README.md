@@ -62,6 +62,14 @@ and make sure that the installation directory is a folder named "Tesseract-OCR" 
 for example the directory in my pc is "C:\Users\Abd El-rhman Fathy\Desktop\Task\Tesseract-OCR"
 where all task files are in folder "Task"
 
+### How to run
+1. open your shell/terminal
+2. navigate to the directory containing project files
+3. run the following command 
+``` bash
+streamlit run GUI.py
+```
+
 ### Comments:
 - the model take time running a progress bar will give the intution of how long to wait.
 - multiple videos is to be put in the same directory first.
